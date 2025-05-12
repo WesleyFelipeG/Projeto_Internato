@@ -2,7 +2,7 @@
 
 [V] Criar o projeto [Wesley]
 
-[V] Crair as classes principais [Wesley]
+[V] Criar as classes principais [Wesley]
 
 [ ] Criar os repositórios (JpaRepository) para cada entidade
 
