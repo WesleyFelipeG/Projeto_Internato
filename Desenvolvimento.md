@@ -8,8 +8,10 @@
 
 [ ] Criar os serviços com as regras de negócio (como alocação, verificação de horas etc.)
 
-[ ] Criar os controllers REST (endpoints) para cada perfil
+[V] Criar os controllers REST (estrutura base de endpoints) [Pedro]
 
-[ ] Criar DTOs para entrada/saída de dados
+[ ] Integrar regras de negócio nos controllers e services (camada de serviço)
+
+[V] Criar DTOs para entrada/saída de dados [Pedro]
 
 [ ] Configurar o application.properties com o PostgreSQL
